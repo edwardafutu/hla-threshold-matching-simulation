@@ -1,4 +1,4 @@
-# Toy Simulation: HLA Mismatch Thresholds, Matching Rates and Group Equity
+# Toy Simulation: Donor-Recipient Mismatch Thresholds, Matching Rates and Group Differences
 
 ## Overview
 A simple R simulation exploring how different donor-recipient mismatch thresholds affect matching rates and matching-rate differences between two hypothetical recipient groups under limited donor availability.
